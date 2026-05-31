@@ -276,8 +276,6 @@ SI RMSE: 98.97
 
 ```
 
-
-
 ## Kaggle Score
 
 
@@ -292,6 +290,16 @@ SI RMSE: 98.97
 
 ```
 
+## Актуальная версия решения
+
+Файл notebooks/.ipynb_checkpoints/baseline-checkpoint.ipynb содержит последнюю версию решения проекта, включая все актуальные эксперименты, изменения в пайплайне обработки данных и настройки моделей.
+
+Именно в этом ноутбуке был получен лучший результат на соревновании Kaggle.
+
+Лучший результат на Kaggle: 278.
+
+
+
 
 
 Файл лучшего submission:
@@ -300,7 +308,7 @@ SI RMSE: 98.97
 
 ```text
 
-extratrees_cleaned_train_bad_dups_removed.csv
+fine_clip_IC1700_CC2800_SI500.csv
 
 ```
 
